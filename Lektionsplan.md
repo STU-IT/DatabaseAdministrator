@@ -40,6 +40,7 @@ https://sqlbolt.com/lesson/introduction 1 - 4
 __tirsdag 28. aug 2018__	
 * Udtræk med SELECT, del 2
 https://www.w3resource.com/sql-exercises
+	* Se også, syntaksdiagrammer fra SQLite: https://www.sqlite.org/syntaxdiagrams.html
 
 
 
