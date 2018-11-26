@@ -1,3 +1,6 @@
 [submodule "Projekter/Madplan"]
 	path = Projekter/Madplan
 	url = https://github.com/STU-IT/Madplan.git
+[submodule "Projekter/Beboerliste"]
+	path = Projekter/Beboerliste
+	url = https://github.com/STU-IT/Beboerliste.git
